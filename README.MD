@@ -4,4 +4,4 @@
 
 ### - A network connected device
 ### - A shell on that device
-### - Chrontab installed
+### - crontab
